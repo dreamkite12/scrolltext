@@ -30,9 +30,9 @@ a {
 .card {
   position: relative;
   border-radius: 1.5em;
-  min-width: 400px;
+  min-width: 300px;
   max-width: 1170px;
-  width: 30%;
+  /* width: 30%; */
   padding: 2.6em 3.8em;
   cursor: pointer;
   top: 50%;
